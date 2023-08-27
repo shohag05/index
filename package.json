@@ -1,0 +1,26 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "First node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohag05/index.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Md. Shohag Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohag05/index/issues"
+  },
+  "homepage": "https://github.com/shohag05/index#readme",
+  "dependencies": {
+    "simple-node-logger": "^21.8.12"
+  }
+}
